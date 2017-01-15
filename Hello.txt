@@ -1,5 +1,9 @@
-print('Hello world!');
+print('Hello world!');--
 print('Hello worlûûûd!');
-sdadsa
+sdadsa--
 print('Hello friensd!');
 print('Hello-mello!');
+print('Hello world!');--
+print('Hello worlûûûd!');--
+sdadsa--
+
